@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projetomaeztra/static/css/main.e6c13ad2.css",
+    "main.js": "/projetomaeztra/static/js/main.7f67cc42.js",
+    "static/js/787.48408f67.chunk.js": "/projetomaeztra/static/js/787.48408f67.chunk.js",
+    "index.html": "/projetomaeztra/index.html",
+    "main.e6c13ad2.css.map": "/projetomaeztra/static/css/main.e6c13ad2.css.map",
+    "main.7f67cc42.js.map": "/projetomaeztra/static/js/main.7f67cc42.js.map",
+    "787.48408f67.chunk.js.map": "/projetomaeztra/static/js/787.48408f67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7f67cc42.js"
+  ]
+}
